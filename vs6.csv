@@ -1,6 +1,10 @@
-race,crime_count
-o_asian,36206
-o_black,1415059
-o_native,46824
-o_pacific,0
-o_white,2060405
+race,crime_count
+
+Asian,36206
+
+Black,1415059
+
+Native American,46824
+
+White,2060405
+
